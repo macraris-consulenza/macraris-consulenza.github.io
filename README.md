@@ -12,9 +12,10 @@ Questo progetto descrive l’automazione della reportistica degli ordini bloccat
 
 ****
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE"><img src="https://img.youtube.com/vi/GsoZaRI1gBI/0.jpg" alt="IMAGE ALT TEXT"></a>
+  <a href="https://www.youtube.com/watch?v=GsoZaRI1gBI"><img src="https://img.youtube.com/vi/GsoZaRI1gBI/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GsoZaRI1gBI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Supporto e Contatti
 
