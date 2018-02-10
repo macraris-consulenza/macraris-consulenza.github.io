@@ -12,6 +12,14 @@ Questo progetto descrive l’automazione della reportistica degli ordini bloccat
 
 ****
 
+*****
+
+### [Progetto VBA Excel: Aggrega File Excel in Uno](https://macraris-consulenza.github.io/aggregare-cartelle-excel/)
+Questo progetto descrive l’automazione dell'aggregazione di diversi file Excel in uno. [Leggi di più](https://macraris-consulenza.github.io/aggregare-cartelle-excel/)
+
+****
+
+
 
 ### Supporto e Contatti
 
