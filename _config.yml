@@ -5,3 +5,5 @@ show_downloads: true
 github:
     aris_url: https://macraris.com/
     vba_url: https://macraris.com/vba-macro/
+# Google Analytics
+google_analytics: UA-112751924-2
